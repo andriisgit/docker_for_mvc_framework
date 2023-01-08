@@ -1,12 +1,12 @@
 # docker_laravel
-Simple docker configuration for laravel.
-The **tmp** folder under the **docker_laravel** must be available for writing to all. For example `sudo chmod -R a+w tmp`
+Simple docker configuration for PHP-MVC framework like Laravel.
+The **tmp** folder under the **docker_for_mvc_framework** must be available for writing to all. For example `sudo chmod -R a+w tmp`
 
 ## Updates
 
 * **2022-03-23**
 
-  - the **tmp** folder under the **docker_laravel** must be available for writing to all. For example `sudo chmod -R a+w tmp`
+  - the **tmp** folder under the **docker_for_mvc_framework** must be available for writing to all. For example `sudo chmod -R a+w tmp`
 
 * **2022-03-04**
 
