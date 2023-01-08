@@ -1,4 +1,4 @@
-# docker_laravel
+# docker_for_mvc_framework
 Simple docker configuration for PHP-MVC framework like Laravel.
 The **tmp** folder under the **docker_for_mvc_framework** must be available for writing to all. For example `sudo chmod -R a+w tmp`
 
